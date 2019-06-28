@@ -1,0 +1,19 @@
+    
+###########################################
+# Syntax Coloring Map For ETMP36-sensor-library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+ETMP36	KEYWORD1
+EgorTMP36	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+getTempC	KEYWORD2
+getTempF	KEYWORD2
+getVoltage	KEYWORD2
